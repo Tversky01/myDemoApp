@@ -1,2 +1,2 @@
-hello my name is arda and this is jackass
+[![Build Status](https://travis-ci.org/Tversky01/myDemoApp.svg?branch=master)](https://travis-ci.org/Tversky01/myDemoApp)
 
